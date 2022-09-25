@@ -1,0 +1,8 @@
+C:\C#\MyAttempts\Price\Price\bin\Debug\Price.exe.config
+C:\C#\MyAttempts\Price\Price\bin\Debug\Price.exe
+C:\C#\MyAttempts\Price\Price\bin\Debug\Price.pdb
+C:\C#\MyAttempts\Price\Price\obj\Debug\Price.csproj.AssemblyReference.cache
+C:\C#\MyAttempts\Price\Price\obj\Debug\Price.csproj.SuggestedBindingRedirects.cache
+C:\C#\MyAttempts\Price\Price\obj\Debug\Price.csproj.CoreCompileInputs.cache
+C:\C#\MyAttempts\Price\Price\obj\Debug\Price.exe
+C:\C#\MyAttempts\Price\Price\obj\Debug\Price.pdb
