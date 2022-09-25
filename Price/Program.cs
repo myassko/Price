@@ -28,6 +28,20 @@ namespace Price
                 arrayOfPrices[i] = price;
             }
 
+            while (true)
+            {
+                Console.WriteLine("Введите название магазина");
+                string s = Console.ReadLine();
+                if(string.IsNullOrEmpty(s))
+                    break;
+
+                foreach (var price in arrayOfPrices)
+                {
+                    if(s==price.Shop)
+                        Console.WriteLine(price.ToString());
+                }
+            }
+
         }
     }
 }
